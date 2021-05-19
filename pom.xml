@@ -6,6 +6,10 @@
     <artifactId>springboot-dubbo-zookeeper</artifactId>
     <version>1.0.0.LEARN</version>
     <packaging>pom</packaging>
+    <name>dubbo_zookeeper</name>
+    <url>http://maven.apache.org</url>
+    <description>Demo project for Spring Boot</description>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -32,8 +36,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <name>dubbo_zookeeper</name>
-    <description>Demo project for Spring Boot</description>
+
 
     <modules>
         <module>common</module>
